@@ -9,8 +9,7 @@ Reworked updated version of Gideon1 JS C# with updated FPS controller, particle 
 
 
 
-//  ____ ____ ____ 
-//  |__| |    |    
-//  |  | |___ |___ 
-//                 
+echo " ____ ____ ____";
+echo " |--| |___ |___";
+
 
